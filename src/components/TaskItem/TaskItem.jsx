@@ -13,7 +13,7 @@ const TaskItem = ({ task, setTasks, setEditingTask }) => {
   };
 
   return (
-    // Contenedor principal de la tarea, con fondo y bordes redondeados
+    // Contenedor principal de la tarea, con fondo y bordes redondeados.
     <div className="p-4 bg-secondary rounded flex justify-between items-start">
       <div>
         {/* Título de la tarea. Si está completada, se muestra tachado */}
