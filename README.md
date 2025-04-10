@@ -129,9 +129,8 @@ npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-i
 ```bash
 Run npx eslint . 
 ```
-
-Stylelint
 ```bash
+Stylelint
 #verifica y valida que el código CSS o SCSS siga buenas prácticas y convenciones.
 npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 ```
@@ -139,3 +138,7 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 #Puedes añadir estos comandos como scripts personalizados en tu package.json para ejecutarlos fácilmente.
 Run npx stylelint "**/*.{css,scss}" 
 ```
+👥 Autoría <a name="authors"></a>
+👩‍💻 Maia Obando - Emily Ariza
+Estudiantes de desarrollo de software – SENA
+GitHub: @MaiaObando30
